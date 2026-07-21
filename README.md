@@ -4,13 +4,13 @@
 Web Developer and Designer
 --------------------------
 
-I have been coding for the last 5 years after changing careers. I started with HTML, CSS, and Javascript and am now learning to be a back-end developer. My ultimate goal is to be a full-stack developer!
+A sales consultant pivoting into technical SEO and frontend development. Currently building SEO case studies and landing page redesigns using HTML5, CSS3, and JavaScript to grow organic visibility and improve on-site UX!
 
-* 🌍  I'm based in Kenya
-* ✉️  You can contact me at [kelvinnyagudi@gmail.com](mailto:kelvinnyagudi@gmail.com)
-* 🧠  I'm currently learning I'm learning Software Development
-* 👥  I'm looking to collaborate on projects and coding bootcamps
-* 💬  Ask me about the latest Godfather in town!!
+* 🌍  Kenyan based.
+* ✉️  Contact me at [kelvinnyagudi@gmail.com](mailto:kelvinnyagudi@gmail.com)
+* 🧠  Currently exploring Software Development.
+* 👥  Seeking to collaborate on projects and coding bootcamps.
+* 💬  Ask me about the latest Godfather in town!!!
 
 ### Front-end:
 <p align="left"> 
